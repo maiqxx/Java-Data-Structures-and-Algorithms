@@ -1,2 +1,2 @@
-# Java-Data-Structures-and-Algorithms-2ndYr
+# Java-Data-Structures-and-Algorithms
 Java DSA Concepts.
