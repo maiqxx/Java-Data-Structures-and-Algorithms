@@ -1,5 +1,18 @@
 package SinglyLinkedList.Activity1;
 
+//Write a menu-driven program that implements the linked list of employees which has variables: id, last name, first name, address, salary.
+//
+//[1] - Add Employee
+//[2] - Search Employee (Based either in last name or first name)
+//[3] - Display All Employee
+//[4] - Get The Total Number of Employees
+//[5] - Get the Total Average of Salary
+//[6] - Delete an Employee based on the ID
+//[7] - Display and count employee according to the salary range.
+//[0] - Exit
+//
+//Your program should never accept any negative value in the salary. The ID should be unique.
+
 import java.util.Scanner;
 
 public class Main_SinglyLL {
